@@ -26,4 +26,15 @@ SELECT local.year AS year,
 FROM city_data local
 JOIN global_data global
 ON local.year = global.year
-WHERE local.city = 'Seoul'
+WHERE local.city = 'Seoul';
+
+--- SEOUL DATA
+
+SELECT *
+FROM city_list
+WHERE city = 'Seoul';
+
+--- GLOBAL DATA
+
+SELECT *
+FROM global_data;
