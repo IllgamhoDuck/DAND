@@ -1,3 +1,4 @@
 ## Ignore flat files ##
 *.csv
 *.tsv
+*.xlsx
