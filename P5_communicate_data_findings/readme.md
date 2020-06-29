@@ -1,4 +1,4 @@
-# Lyft Bay Wheel's trip dataset exploration.ipynb
+# Lyft Bay Wheel's trip dataset exploration
 
 ## Overview
 https://www.lyft.com/bikes/bay-wheels/system-data
